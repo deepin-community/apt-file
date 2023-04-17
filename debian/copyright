@@ -1,22 +1,15 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: template-repository
-Source: https://github.com/deepin-community/template-repository
+This package was debianized by Sebastien J. Gross <sjg@debian.org> on
+Sat, 13 Oct 2001 21:36:47 +0200.
 
-Files: *
-Copyright: 2023 Tsic404 <liuheng@deepin.org>
-License: GPL-2+
- This package is free software; you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation; either version 2 of the License, or
- (at your option) any later version.
- .
- This package is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- .
- You should have received a copy of the GNU General Public License
- along with this program. If not, see <https://www.gnu.org/licenses/>
- .
- On Debian systems, the complete text of the GNU General
- Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+Authors: Sebastien J. Gross <sjg@debian.org>
+         Enrico Zini <enrico@debian.org> (for rapt-file)
+         Stefan Fritsch <sf@debian.org> (for diffindex-*)
+
+Copyright:
+
+Copyright 2001-5 Sebastien J. Gross <sjg@debian.org>
+
+License:
+
+This software is distributed under the GNU General Public License,
+which can be found at /usr/share/common-licenses/GPL-2.
